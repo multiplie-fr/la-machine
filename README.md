@@ -7,4 +7,4 @@ This repository will contain (once everything is ready):
 - the stl files to print it yourself
 - the gerber and everything you need to manufacture the PCBA
 
-la machine is availabke for pre-order at : la-machine.fr (shipping in Feb 2026)
+la machine is available for pre-order at : la-machine.fr (shipping in Feb 2026)
