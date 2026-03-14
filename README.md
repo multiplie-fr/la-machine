@@ -2,7 +2,7 @@
 
 la machine revisits the legendary "Ultimate Machine"
 
-This repository contains (once everything is ready):
+This repository contains :
 - the stl files to print it yourself
 - the schematics and the gerber files to manufacture the PCBA
 
