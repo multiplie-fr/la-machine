@@ -8,4 +8,4 @@ This repository contains (once everything is ready):
 
 For the software, everything is on Paul's repository [here](https://github.com/pguyot/la_machine).
 
-la machine is available for order at : la-machine.fr 
+la machine is available for order at : [la-machine.fr] (https://la-machine.fr)
