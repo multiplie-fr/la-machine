@@ -1,0 +1,57 @@
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 19 0.3149605 1.2 180 N S4 FSM4JSMA ;0=1,1=0.1969
+PRP Manufacturer 'TE'
+PRP Manufacturer_Part_Number 'FSM4JSMA'
+TOP 0 0.2263778 1.0208661 90 N 2 0 S4-1
+TOP 1 0.2263778 1.3791339 90 N 2 1 S4-1
+TOP 2 0.4035432 1.0208661 90 N 47 0 S4-2
+TOP 3 0.4035432 1.3791339 90 N 47 1 S4-2
+#
+# CMP 1
+CMP 18 0.3149606 0.1968504 0 N S3 SA1-0-102-A04-0004-RS ;0=2,1=0.3740
+PRP Manufacturer ''
+PRP Manufacturer_Part_Number 'SA1-0-102-A04-0004-RS'
+TOP 0 0.3149606 0.5968504 270 N 0 3 S3-1
+TOP 1 0.3149606 0.4968504 270 N 47 2 S3-2
+TOP 2 0.3149606 0.3968504 270 N 24 2 S3-3
+TOP 3 0.3149606 0.1968504 270 N 0 2 S3-4
+#
+# CMP 2
+CMP 5 0.9271654 2.1622047 0 N P1 Header_2_2.00mm_JST-B2B-PH-SM4-TB(LF)(SN) ;0=1,1=0.2598
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Manufacturer 'JST'
+PRP Manufacturer_Part_Number 'B2B-PH-SM4-TB(LF)(SN)'
+PRP Publisher 'Altium Limited'
+TOP 0 0.9665355 2.1622047 180 N 48 22 P1-1
+TOP 1 0.8877953 2.1622047 180 N 13 0 P1-2
+TOP 2 1.0610237 2.2507874 270 N 0 7 P1-empty-1
+TOP 3 0.7933071 2.2507874 270 N 0 6 P1-empty-2
+#
+# CMP 3
+CMP 6 0.938189 1.4322835 90 N P3 Header_3_2.54mm_CMS ;0=1,1=0.2953
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Publisher 'Altium Limited'
+TOP 0 0.8728347 1.5322835 90 N 48 25 P3-1
+TOP 1 1.0035433 1.4322835 90 N 42 3 P3-2
+TOP 2 0.8728347 1.3322835 90 N 22 2 P3-3
+#
+# CMP 4
+CMP 5 0.9271654 1.7637795 0 N P2 Header_2_2.00mm_JST-B2B-PH-SM4-TB(LF)(SN) ;0=1,1=0.2598
+PRP LatestRevisionDate '17-Jul-2002'
+PRP LatestRevisionNote 'Re-released for DXP Platform.'
+PRP Manufacturer 'JST'
+PRP Manufacturer_Part_Number 'B2B-PH-SM4-TB(LF)(SN)'
+PRP Publisher 'Altium Limited'
+TOP 0 0.9665355 1.7637795 180 N 30 1 P2-1
+TOP 1 0.8877953 1.7637795 180 N 29 1 P2-2
+TOP 2 1.0610237 1.8523622 270 N 0 5 P2-empty-1
+TOP 3 0.7933071 1.8523622 270 N 0 4 P2-empty-2
+#

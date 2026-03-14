@@ -2,11 +2,10 @@
 
 la machine revisits the legendary "Ultimate Machine"
 
-This repository will contain (once everything is ready):
-- the software (in Erlang + an Arduino-IDE compatible)
+This repository contains (once everything is ready):
 - the stl files to print it yourself
-- the schematics, gerber and everything you need to manufacture the PCBA
+- the schematics and the gerber files to manufacture the PCBA
 
-Meanwhile, you can have a look at Paul's Erlang code [here](https://github.com/pguyot/la_machine).
+For the software, everything is on Paul's repository [here](https://github.com/pguyot/la_machine).
 
-la machine is available for pre-order at : la-machine.fr (shipping in Feb 2026)
+la machine is available for order at : la-machine.fr 
